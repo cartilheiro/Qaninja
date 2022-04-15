@@ -15,7 +15,7 @@ end
 #variável criada com  @ se torna uma variável de instância, mais ou menos variável global, ela fica disponível durante toda execução.
 
 Dado('que eu tenha o seguinte equipamento:') do |table|                       
-    @anuncio = table.rows.hash
+    @anuncio = table.rows_hash
     log @anuncio
 end
                                                                                 
