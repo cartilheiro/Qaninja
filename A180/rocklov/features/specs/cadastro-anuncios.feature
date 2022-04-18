@@ -15,7 +15,7 @@ Funcionalidade: Cadastro de Anúncios
         E que eu tenha o seguinte equipamento:
             | thumb     | fender-sb.jpg |
             | nome      | Fender Strato |
-            | categoria | cordas        |
+            | categoria | Cordas        |
             | preco     | 200           |
 
         Quando submeto o cadastro desse item
